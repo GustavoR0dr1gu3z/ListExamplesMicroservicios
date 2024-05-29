@@ -1,0 +1,53 @@
+package dao;
+
+import java.util.List;
+
+import model.Contacto;
+
+
+@Repository
+public class AgendaDaoMplClass implements AgendaDao {
+
+	@Override
+	public void agregarContacto(Contacto contacto) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Contacto recuperarContacto(String email) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void eliminarContacto(String email) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public List<Contacto> devolverContactos() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void eliminarContacto(int idContacto) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Contacto recuperarContacto(int idContacto) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void actualizarContacto(Contacto contacto) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,46 @@
+package service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import dao.AgendaDao;
+import model.Contacto;
+
+public class AgendaServiceLmpl implements AgendaService {
+
+	@Autowired
+	AgendaDao dao;
+	
+	@Override
+	public boolean agregarContacto(Contacto contacto) {
+		if(dao.recuperarContacto(contacto.getIdContacto()) == null) {
+			dao.agregarContacto(contacto);
+			return true;
+		}
+		return false;
+	}
+
+	@Override
+	public List<Contacto> recuperarContactos() {
+		
+	}
+
+	@Override
+	public void actualizarContacto(Contacto contacto) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public boolean eliminarContacto(int idContacto) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public Contacto buscarContacto(int idContacto) {
+		return dao.recuperarContacto(idContacto)
+	}
+
+}

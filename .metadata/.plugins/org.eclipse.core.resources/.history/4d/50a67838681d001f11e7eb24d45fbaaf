@@ -1,0 +1,13 @@
+package controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ContactosController {
+
+	@Autowired
+	AgendaService service;
+	
+	@GetMapping(value="getContacts", produces=MediaType.APPLICATION_JSON_VALUE )
+	
+}

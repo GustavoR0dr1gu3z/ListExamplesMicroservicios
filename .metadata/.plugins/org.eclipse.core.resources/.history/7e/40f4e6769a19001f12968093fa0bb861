@@ -1,0 +1,11 @@
+package com.apirest_microservicio.controller;
+
+import org.springframework.http.MediaType;
+import org.springframework.web.bind.annotation.GetMapping;
+
+public class SaludoController {
+	@GetMapping(value="saludo", produces = MediaType.TEXT_PLAIN_VALUE)
+	public String saludo() {
+		return "Saludo desde microservicio";
+	}
+}

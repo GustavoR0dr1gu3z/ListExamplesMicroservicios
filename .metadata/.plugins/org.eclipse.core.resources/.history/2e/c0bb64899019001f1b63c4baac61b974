@@ -1,0 +1,5 @@
+package com.apirest_microservicio.model;
+
+public @interface XmlRootElement {
+
+}

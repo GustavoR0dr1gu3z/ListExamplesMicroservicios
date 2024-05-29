@@ -1,0 +1,9 @@
+package com.apirest_microservicio.controllers;
+
+
+
+public class CursoControllers {
+	public Curso getCurso() {
+		return new Curso("Java", 100, "Mañana")
+	}
+}

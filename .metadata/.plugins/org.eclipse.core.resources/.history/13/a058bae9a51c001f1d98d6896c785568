@@ -1,0 +1,19 @@
+package model;
+
+import java.io.Serializable;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.NamedQuery;
+import jakarta.persistence.Table;
+
+public class Contacto {
+
+}
+
+@Entity
+@Table(name="Contacts")
+@NamedQuery(name="Contacts.findAll", query="SELECT c FROM Contacts c")
+
+public class Contacto implements Serializable{
+	privatr static final long serialVersionUID = 1L;
+}

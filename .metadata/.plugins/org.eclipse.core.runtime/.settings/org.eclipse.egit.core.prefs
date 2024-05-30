@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\gusta\\git\\UnitTest-en-Spring-Boot-con-JUnit-y-Mockito\\.git;C\:\\Users\\gusta\\Documents\\EclipseProjects\\UnitTest-en-Spring-Boot-con-JUnit-y-Mockito\\.git;
-GitRepositoriesView.GitDirectories.relative=C\:\\Users\\gusta\\git\\UnitTest-en-Spring-Boot-con-JUnit-y-Mockito\\.git;UnitTest-en-Spring-Boot-con-JUnit-y-Mockito\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\gusta\\Documents\\EclipseProjects\\.git;C\:\\Users\\gusta\\git\\UnitTest-en-Spring-Boot-con-JUnit-y-Mockito\\.git;C\:\\Users\\gusta\\Documents\\EclipseProjects\\UnitTest-en-Spring-Boot-con-JUnit-y-Mockito\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;C\:\\Users\\gusta\\git\\UnitTest-en-Spring-Boot-con-JUnit-y-Mockito\\.git;UnitTest-en-Spring-Boot-con-JUnit-y-Mockito\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

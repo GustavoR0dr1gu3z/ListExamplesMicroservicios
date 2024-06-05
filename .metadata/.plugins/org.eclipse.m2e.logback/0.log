@@ -7903,3 +7903,529 @@ org.eclipse.core.runtime.CoreException: Launch configuration DemoApplication ref
 2024-05-30 23:57:18,721 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-05-30 23:57:18,731 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-05-30 23:57:18,736 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\reservacion_vuelos\src\test\resources
+2024-05-30 23:58:13,884 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-30 23:58:13,895 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-30 23:58:13,898 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\reservacion_vuelos\src\test\resources
+2024-05-30 23:58:23,618 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-30 23:58:23,627 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-30 23:58:23,632 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\reservacion_vuelos\src\test\resources
+2024-06-04 21:12:38,907 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-06-04 21:22:57,234 [Worker-19: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:05_microservicio_cliente_contactos:1.0 @ C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\pom.xml.
+2024-06-04 21:23:06,454 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /05_microservicio_cliente_contactos/src/main/java
+2024-06-04 21:23:06,455 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /05_microservicio_cliente_contactos/src/main/resources
+2024-06-04 21:23:06,476 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /05_microservicio_cliente_contactos/src/main/resources
+2024-06-04 21:23:06,502 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /05_microservicio_cliente_contactos/src/test/java
+2024-06-04 21:23:06,505 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /05_microservicio_cliente_contactos/src/test/resources
+2024-06-04 21:23:13,808 [Worker-19: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 24 sec
+2024-06-04 21:23:13,821 [Worker-19: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-06-04 21:23:15,161 [Worker-19: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:05_microservicio_cliente_contactos:1.0 @ C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\pom.xml.
+2024-06-04 21:23:16,769 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /05_microservicio_cliente_contactos/src/main/java
+2024-06-04 21:23:16,770 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /05_microservicio_cliente_contactos/src/main/resources
+2024-06-04 21:23:16,770 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /05_microservicio_cliente_contactos/src/main/resources
+2024-06-04 21:23:16,771 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /05_microservicio_cliente_contactos/src/test/java
+2024-06-04 21:23:16,771 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /05_microservicio_cliente_contactos/src/test/resources
+2024-06-04 21:23:18,700 [Worker-19: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2024-06-04 21:23:29,056 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:23:29,106 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:23:29,120 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-06-04 21:23:32,705 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:23:32,750 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:23:32,760 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\03_microservicio_api\src\test\resources
+2024-06-04 21:23:35,198 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:23:35,244 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:23:35,254 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\04_microservicio_contactos\src\test\resources
+2024-06-04 21:23:35,635 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:23:35,666 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:23:35,674 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:23:48,759 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-04 21:23:48,759 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-04 21:23:48,787 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-04 21:23:48,811 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-04 21:23:48,811 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\UnitTest-en-Spring-Boot-con-JUnit-y-Mockito\src\test\resources
+2024-06-04 21:23:55,932 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:23:55,991 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:23:56,002 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\gestion_inventario\src\test\resources
+2024-06-04 21:24:06,151 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:24:06,205 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:24:06,214 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\microservicio_ejemplo1\src\test\resources
+2024-06-04 21:24:10,335 [Worker-22: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicio_ejemplo1: moto-service:microservicio_ejemplo1:1.0 with classifier  to /microservicio_ejemplo1/target/classes
+2024-06-04 21:24:10,750 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:24:10,815 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:24:10,827 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\01_microservicio_api\src\test\resources
+2024-06-04 21:24:15,706 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:24:15,717 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:24:15,723 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:24:20,922 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:24:20,962 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:24:20,974 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\Microservicios\moto-service\src\test\resources
+2024-06-04 21:24:23,556 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:24:23,647 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:24:23,680 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\reservacion_vuelos\src\test\resources
+2024-06-04 21:24:25,697 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:24:25,725 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:24:25,732 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\sistema_vuelos\src\test\resources
+2024-06-04 21:24:28,301 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:24:28,339 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:24:28,347 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\Microservicios\usuario-service\src\test\resources
+2024-06-04 21:24:29,973 [Worker-19: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/usuario-service: usuario-service:usuario-service:1.0 with classifier  to /usuario-service/target/classes
+2024-06-04 21:24:30,175 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:24:30,210 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:24:30,217 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\Microservicios\carro-service\src\test\resources
+2024-06-04 21:24:59,431 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:24:59,439 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:24:59,444 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:25:08,842 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:25:08,850 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:25:08,856 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:25:34,313 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:25:34,335 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:25:34,341 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:25:47,255 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:25:47,266 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:25:47,274 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:26:20,486 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:26:20,532 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:26:20,542 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:26:53,225 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:26:53,250 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:26:53,256 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:27:09,645 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:27:09,655 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:27:09,661 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:27:11,923 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:27:11,937 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:27:11,944 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:27:20,547 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:27:20,558 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:27:20,587 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:28:06,104 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:28:06,113 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:28:06,126 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:28:15,476 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:28:15,486 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:28:15,493 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:28:16,642 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:28:16,651 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:28:16,660 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:28:26,444 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:28:26,454 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:28:26,464 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:28:43,064 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:28:43,077 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:28:43,087 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:28:45,390 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:28:45,447 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:28:45,461 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:29:19,906 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:29:19,915 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:29:19,923 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:29:22,850 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:29:22,861 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:29:22,867 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:29:40,155 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:29:40,168 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:29:40,176 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:31:24,196 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:31:24,204 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:31:24,209 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:32:23,542 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:32:23,553 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:32:23,558 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:32:29,001 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:32:29,010 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:32:29,015 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:32:49,901 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:32:49,911 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:32:49,916 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:33:57,139 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:33:57,148 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:33:57,153 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:34:22,314 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:34:22,324 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:34:22,330 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:34:42,762 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:34:42,772 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:34:42,778 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:34:45,418 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:34:45,426 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:34:45,431 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:35:01,983 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:35:01,990 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:35:01,993 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:35:31,154 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:35:31,163 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:35:31,168 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:35:46,042 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:35:46,051 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:35:46,063 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:35:50,361 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:35:50,370 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:35:50,375 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:35:58,826 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:35:58,857 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:35:58,862 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:36:20,775 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:36:20,784 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:36:20,791 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:36:23,675 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:36:23,683 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:36:23,691 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:37:01,077 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:37:01,086 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:37:01,094 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:38:42,985 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:38:43,003 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:38:43,010 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:38:45,318 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:38:45,378 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:38:45,387 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:39:29,118 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:39:29,152 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:39:29,159 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:41:47,759 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:41:47,770 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:41:47,775 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:42:06,141 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:42:06,148 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:42:06,152 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:42:16,671 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:42:16,681 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:42:16,687 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:42:30,474 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:42:30,484 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:42:30,488 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:43:02,117 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:43:02,124 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:43:02,129 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:43:03,232 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:43:03,240 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:43:03,245 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:43:06,155 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:43:06,162 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:43:06,167 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:43:24,752 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:43:24,760 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:43:24,765 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:43:50,584 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:43:50,590 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:43:50,595 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:44:17,739 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:44:17,747 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:44:17,752 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:46:00,372 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:46:00,384 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:46:00,389 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:47:14,324 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:47:14,334 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:47:14,338 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:47:15,477 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:47:15,487 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:47:15,493 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:48:37,445 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:48:37,456 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:48:37,461 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:48:43,511 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:48:43,518 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:48:43,523 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:49:07,511 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:49:07,519 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:49:07,524 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:49:22,352 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:49:22,360 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:49:22,363 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:50:01,121 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:50:01,131 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:50:01,136 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:50:57,048 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:50:57,057 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:50:57,061 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 21:51:07,405 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 21:51:07,419 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 21:51:07,425 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos\src\test\resources
+2024-06-04 22:08:53,616 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:05_microservicio_cliente_contactos:1.0 @ C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\pom.xml.
+2024-06-04 22:08:56,506 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:08:56,592 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:08:56,600 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:30:41,718 [Worker-47: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:05_microservicio_cliente_contactos:1.0 @ C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\pom.xml.
+2024-06-04 22:30:43,139 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.3.0/spring-boot-starter-webflux-3.3.0.pom
+2024-06-04 22:30:43,158 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.3.0/spring-boot-starter-webflux-3.3.0.pom
+2024-06-04 22:30:43,241 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.3.0/spring-boot-starter-reactor-netty-3.3.0.pom
+2024-06-04 22:30:43,251 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.3.0/spring-boot-starter-reactor-netty-3.3.0.pom
+2024-06-04 22:30:43,330 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.19/reactor-netty-http-1.1.19.pom
+2024-06-04 22:30:43,344 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.19/reactor-netty-http-1.1.19.pom
+2024-06-04 22:30:43,449 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.110.Final/netty-codec-http-4.1.110.Final.pom
+2024-06-04 22:30:43,458 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.110.Final/netty-codec-http-4.1.110.Final.pom
+2024-06-04 22:30:43,548 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.110.Final/netty-parent-4.1.110.Final.pom
+2024-06-04 22:30:44,364 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.110.Final/netty-parent-4.1.110.Final.pom
+2024-06-04 22:30:44,471 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.110.Final/netty-common-4.1.110.Final.pom
+2024-06-04 22:30:44,497 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.110.Final/netty-common-4.1.110.Final.pom
+2024-06-04 22:30:44,590 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.110.Final/netty-buffer-4.1.110.Final.pom
+2024-06-04 22:30:44,598 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.110.Final/netty-buffer-4.1.110.Final.pom
+2024-06-04 22:30:44,694 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.110.Final/netty-transport-4.1.110.Final.pom
+2024-06-04 22:30:44,703 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.110.Final/netty-transport-4.1.110.Final.pom
+2024-06-04 22:30:44,787 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.110.Final/netty-resolver-4.1.110.Final.pom
+2024-06-04 22:30:44,793 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.110.Final/netty-resolver-4.1.110.Final.pom
+2024-06-04 22:30:44,874 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.110.Final/netty-codec-4.1.110.Final.pom
+2024-06-04 22:30:44,888 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.110.Final/netty-codec-4.1.110.Final.pom
+2024-06-04 22:30:44,968 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.110.Final/netty-handler-4.1.110.Final.pom
+2024-06-04 22:30:44,976 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.110.Final/netty-handler-4.1.110.Final.pom
+2024-06-04 22:30:45,052 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.110.Final/netty-transport-native-unix-common-4.1.110.Final.pom
+2024-06-04 22:30:45,092 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.110.Final/netty-transport-native-unix-common-4.1.110.Final.pom
+2024-06-04 22:30:45,180 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.110.Final/netty-codec-http2-4.1.110.Final.pom
+2024-06-04 22:30:45,187 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.110.Final/netty-codec-http2-4.1.110.Final.pom
+2024-06-04 22:30:45,266 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.110.Final/netty-resolver-dns-4.1.110.Final.pom
+2024-06-04 22:30:45,272 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.110.Final/netty-resolver-dns-4.1.110.Final.pom
+2024-06-04 22:30:45,348 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.110.Final/netty-codec-dns-4.1.110.Final.pom
+2024-06-04 22:30:45,356 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.110.Final/netty-codec-dns-4.1.110.Final.pom
+2024-06-04 22:30:45,430 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.110.Final/netty-resolver-dns-native-macos-4.1.110.Final.pom
+2024-06-04 22:30:45,679 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.110.Final/netty-resolver-dns-native-macos-4.1.110.Final.pom
+2024-06-04 22:30:45,765 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.110.Final/netty-resolver-dns-classes-macos-4.1.110.Final.pom
+2024-06-04 22:30:45,770 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.110.Final/netty-resolver-dns-classes-macos-4.1.110.Final.pom
+2024-06-04 22:30:45,874 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.110.Final/netty-transport-native-epoll-4.1.110.Final.pom
+2024-06-04 22:30:45,902 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.110.Final/netty-transport-native-epoll-4.1.110.Final.pom
+2024-06-04 22:30:45,997 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.110.Final/netty-transport-classes-epoll-4.1.110.Final.pom
+2024-06-04 22:30:46,003 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.110.Final/netty-transport-classes-epoll-4.1.110.Final.pom
+2024-06-04 22:30:46,100 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.19/reactor-netty-core-1.1.19.pom
+2024-06-04 22:30:46,113 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.19/reactor-netty-core-1.1.19.pom
+2024-06-04 22:30:46,202 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.110.Final/netty-handler-proxy-4.1.110.Final.pom
+2024-06-04 22:30:46,208 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.110.Final/netty-handler-proxy-4.1.110.Final.pom
+2024-06-04 22:30:46,314 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.110.Final/netty-codec-socks-4.1.110.Final.pom
+2024-06-04 22:30:46,323 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.110.Final/netty-codec-socks-4.1.110.Final.pom
+2024-06-04 22:30:46,419 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.6.6/reactor-core-3.6.6.pom
+2024-06-04 22:30:46,425 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.6.6/reactor-core-3.6.6.pom
+2024-06-04 22:30:46,512 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.pom
+2024-06-04 22:30:46,517 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.pom
+2024-06-04 22:30:46,602 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.1.8/spring-webflux-6.1.8.pom
+2024-06-04 22:30:46,615 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.1.8/spring-webflux-6.1.8.pom
+2024-06-04 22:30:46,907 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.3.0/spring-boot-starter-webflux-3.3.0.jar
+2024-06-04 22:30:46,919 [Worker-47: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.3.0/spring-boot-starter-webflux-3.3.0.jar
+2024-06-04 22:30:46,980 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.19/reactor-netty-http-1.1.19.jar
+2024-06-04 22:30:47,188 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.110.Final/netty-buffer-4.1.110.Final.jar
+2024-06-04 22:30:47,331 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.110.Final/netty-codec-http-4.1.110.Final.jar
+2024-06-04 22:30:47,334 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.110.Final/netty-common-4.1.110.Final.jar
+2024-06-04 22:30:47,610 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.3.0/spring-boot-starter-reactor-netty-3.3.0.jar
+2024-06-04 22:30:47,751 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.3.0/spring-boot-starter-reactor-netty-3.3.0.jar
+2024-06-04 22:30:47,811 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.110.Final/netty-transport-4.1.110.Final.jar
+2024-06-04 22:30:48,132 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.110.Final/netty-common-4.1.110.Final.jar
+2024-06-04 22:30:48,132 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.110.Final/netty-codec-http-4.1.110.Final.jar
+2024-06-04 22:30:48,183 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.110.Final/netty-handler-4.1.110.Final.jar
+2024-06-04 22:30:48,183 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.110.Final/netty-codec-4.1.110.Final.jar
+2024-06-04 22:30:48,216 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.110.Final/netty-buffer-4.1.110.Final.jar
+2024-06-04 22:30:48,275 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.110.Final/netty-codec-http2-4.1.110.Final.jar
+2024-06-04 22:30:48,384 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.19/reactor-netty-http-1.1.19.jar
+2024-06-04 22:30:48,444 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.110.Final/netty-resolver-dns-4.1.110.Final.jar
+2024-06-04 22:30:48,464 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.110.Final/netty-codec-4.1.110.Final.jar
+2024-06-04 22:30:48,529 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.110.Final/netty-resolver-4.1.110.Final.jar
+2024-06-04 22:30:48,549 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.110.Final/netty-resolver-4.1.110.Final.jar
+2024-06-04 22:30:48,616 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.110.Final/netty-codec-dns-4.1.110.Final.jar
+2024-06-04 22:30:48,622 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.110.Final/netty-transport-4.1.110.Final.jar
+2024-06-04 22:30:48,633 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.110.Final/netty-handler-4.1.110.Final.jar
+2024-06-04 22:30:48,668 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.110.Final/netty-codec-dns-4.1.110.Final.jar
+2024-06-04 22:30:48,690 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.110.Final/netty-resolver-dns-native-macos-4.1.110.Final-osx-x86_64.jar
+2024-06-04 22:30:48,707 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.110.Final/netty-resolver-dns-classes-macos-4.1.110.Final.jar
+2024-06-04 22:30:48,713 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.110.Final/netty-resolver-dns-classes-macos-4.1.110.Final.jar
+2024-06-04 22:30:48,713 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.110.Final/netty-resolver-dns-native-macos-4.1.110.Final-osx-x86_64.jar
+2024-06-04 22:30:48,734 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.110.Final/netty-transport-native-epoll-4.1.110.Final-linux-x86_64.jar
+2024-06-04 22:30:48,770 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.110.Final/netty-transport-native-epoll-4.1.110.Final-linux-x86_64.jar
+2024-06-04 22:30:48,782 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.110.Final/netty-transport-native-unix-common-4.1.110.Final.jar
+2024-06-04 22:30:48,786 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.110.Final/netty-transport-classes-epoll-4.1.110.Final.jar
+2024-06-04 22:30:48,791 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.110.Final/netty-resolver-dns-4.1.110.Final.jar
+2024-06-04 22:30:48,821 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.110.Final/netty-transport-native-unix-common-4.1.110.Final.jar
+2024-06-04 22:30:48,836 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.19/reactor-netty-core-1.1.19.jar
+2024-06-04 22:30:48,862 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.110.Final/netty-handler-proxy-4.1.110.Final.jar
+2024-06-04 22:30:48,901 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.110.Final/netty-handler-proxy-4.1.110.Final.jar
+2024-06-04 22:30:48,901 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.110.Final/netty-codec-socks-4.1.110.Final.jar
+2024-06-04 22:30:48,910 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.110.Final/netty-transport-classes-epoll-4.1.110.Final.jar
+2024-06-04 22:30:48,918 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.110.Final/netty-codec-http2-4.1.110.Final.jar
+2024-06-04 22:30:48,969 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.1.8/spring-webflux-6.1.8.jar
+2024-06-04 22:30:48,978 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.6.6/reactor-core-3.6.6.jar
+2024-06-04 22:30:48,983 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar
+2024-06-04 22:30:49,000 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar
+2024-06-04 22:30:49,038 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.110.Final/netty-codec-socks-4.1.110.Final.jar
+2024-06-04 22:30:49,250 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.19/reactor-netty-core-1.1.19.jar
+2024-06-04 22:30:50,160 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.1.8/spring-webflux-6.1.8.jar
+2024-06-04 22:30:50,166 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.6.6/reactor-core-3.6.6.jar
+2024-06-04 22:30:51,471 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:30:51,477 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:30:51,486 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:30:52,137 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.3.0/spring-boot-starter-webflux-3.3.0-sources.jar
+2024-06-04 22:30:52,146 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.3.0/spring-boot-starter-webflux-3.3.0-sources.jar
+2024-06-04 22:30:52,156 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-webflux:3.3.0
+2024-06-04 22:30:52,332 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-06-04 22:30:53,159 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.3.0/spring-boot-starter-reactor-netty-3.3.0-sources.jar
+2024-06-04 22:30:53,166 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.3.0/spring-boot-starter-reactor-netty-3.3.0-sources.jar
+2024-06-04 22:30:53,176 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-reactor-netty:3.3.0
+2024-06-04 22:30:55,498 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.19/reactor-netty-http-1.1.19-sources.jar
+2024-06-04 22:30:55,988 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:05_microservicio_cliente_contactos:1.0 @ C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\pom.xml.
+2024-06-04 22:30:56,643 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.19/reactor-netty-http-1.1.19-sources.jar
+2024-06-04 22:30:56,650 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-http:1.1.19
+2024-06-04 22:30:56,843 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.110.Final/netty-codec-http-4.1.110.Final-sources.jar
+2024-06-04 22:30:57,123 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.110.Final/netty-codec-http-4.1.110.Final-sources.jar
+2024-06-04 22:30:57,141 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http:4.1.110.Final
+2024-06-04 22:30:57,409 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.110.Final/netty-common-4.1.110.Final-sources.jar
+2024-06-04 22:30:57,671 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.110.Final/netty-common-4.1.110.Final-sources.jar
+2024-06-04 22:30:57,676 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.110.Final
+2024-06-04 22:30:57,905 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.110.Final/netty-buffer-4.1.110.Final-sources.jar
+2024-06-04 22:30:58,043 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.110.Final/netty-buffer-4.1.110.Final-sources.jar
+2024-06-04 22:30:58,051 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.110.Final
+2024-06-04 22:30:58,194 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /05_microservicio_cliente_contactos_webClient/src/main/java
+2024-06-04 22:30:58,194 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /05_microservicio_cliente_contactos_webClient/src/main/resources
+2024-06-04 22:30:58,195 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /05_microservicio_cliente_contactos_webClient/src/main/resources
+2024-06-04 22:30:58,196 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /05_microservicio_cliente_contactos_webClient/src/test/java
+2024-06-04 22:30:58,196 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /05_microservicio_cliente_contactos_webClient/src/test/resources
+2024-06-04 22:30:58,253 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.110.Final/netty-transport-4.1.110.Final-sources.jar
+2024-06-04 22:30:58,443 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.110.Final/netty-transport-4.1.110.Final-sources.jar
+2024-06-04 22:30:58,452 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.110.Final
+2024-06-04 22:30:58,649 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.110.Final/netty-codec-4.1.110.Final-sources.jar
+2024-06-04 22:30:58,887 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.110.Final/netty-codec-4.1.110.Final-sources.jar
+2024-06-04 22:30:58,893 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.110.Final
+2024-06-04 22:30:59,082 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.110.Final/netty-handler-4.1.110.Final-sources.jar
+2024-06-04 22:30:59,312 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.110.Final/netty-handler-4.1.110.Final-sources.jar
+2024-06-04 22:30:59,320 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.110.Final
+2024-06-04 22:30:59,590 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.110.Final/netty-codec-http2-4.1.110.Final-sources.jar
+2024-06-04 22:30:59,791 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.110.Final/netty-codec-http2-4.1.110.Final-sources.jar
+2024-06-04 22:30:59,798 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http2:4.1.110.Final
+2024-06-04 22:31:00,001 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.110.Final/netty-resolver-dns-4.1.110.Final-sources.jar
+2024-06-04 22:31:00,080 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.110.Final/netty-resolver-dns-4.1.110.Final-sources.jar
+2024-06-04 22:31:00,090 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns:4.1.110.Final
+2024-06-04 22:31:00,293 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.110.Final/netty-resolver-4.1.110.Final-sources.jar
+2024-06-04 22:31:00,302 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.110.Final/netty-resolver-4.1.110.Final-sources.jar
+2024-06-04 22:31:00,309 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.110.Final
+2024-06-04 22:31:00,569 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 5.00 sec, update config takes 2.00 sec 
+2024-06-04 22:31:01,275 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:31:01,322 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:31:01,334 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:31:01,603 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.110.Final/netty-codec-dns-4.1.110.Final-sources.jar
+2024-06-04 22:31:01,691 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.110.Final/netty-codec-dns-4.1.110.Final-sources.jar
+2024-06-04 22:31:01,701 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-dns:4.1.110.Final
+2024-06-04 22:31:02,228 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.110.Final/netty-resolver-dns-native-macos-4.1.110.Final-sources.jar
+2024-06-04 22:31:02,238 [Worker-48: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for io.netty:netty-resolver-dns-native-macos:4.1.110.Finalosx-x86_64
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.netty:netty-resolver-dns-native-macos:jar:sources:4.1.110.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-06-04 22:31:02,491 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.110.Final/netty-resolver-dns-classes-macos-4.1.110.Final-sources.jar
+2024-06-04 22:31:02,498 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.110.Final/netty-resolver-dns-classes-macos-4.1.110.Final-sources.jar
+2024-06-04 22:31:02,508 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns-classes-macos:4.1.110.Final
+2024-06-04 22:31:02,796 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.110.Final/netty-transport-native-epoll-4.1.110.Final-sources.jar
+2024-06-04 22:31:02,816 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.110.Final/netty-transport-native-epoll-4.1.110.Final-sources.jar
+2024-06-04 22:31:02,823 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.110.Finallinux-x86_64
+2024-06-04 22:31:03,001 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.110.Final/netty-transport-native-unix-common-4.1.110.Final-sources.jar
+2024-06-04 22:31:03,073 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.110.Final/netty-transport-native-unix-common-4.1.110.Final-sources.jar
+2024-06-04 22:31:03,082 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.110.Final
+2024-06-04 22:31:03,258 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.110.Final/netty-transport-classes-epoll-4.1.110.Final-sources.jar
+2024-06-04 22:31:03,325 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.110.Final/netty-transport-classes-epoll-4.1.110.Final-sources.jar
+2024-06-04 22:31:03,331 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-classes-epoll:4.1.110.Final
+2024-06-04 22:31:03,510 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.19/reactor-netty-core-1.1.19-sources.jar
+2024-06-04 22:31:05,916 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.19/reactor-netty-core-1.1.19-sources.jar
+2024-06-04 22:31:05,923 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-core:1.1.19
+2024-06-04 22:31:06,163 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.110.Final/netty-handler-proxy-4.1.110.Final-sources.jar
+2024-06-04 22:31:06,175 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.110.Final/netty-handler-proxy-4.1.110.Final-sources.jar
+2024-06-04 22:31:06,185 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler-proxy:4.1.110.Final
+2024-06-04 22:31:06,373 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.110.Final/netty-codec-socks-4.1.110.Final-sources.jar
+2024-06-04 22:31:06,840 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.110.Final/netty-codec-socks-4.1.110.Final-sources.jar
+2024-06-04 22:31:06,852 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-socks:4.1.110.Final
+2024-06-04 22:31:07,035 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.1.8/spring-webflux-6.1.8-sources.jar
+2024-06-04 22:31:07,303 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.1.8/spring-webflux-6.1.8-sources.jar
+2024-06-04 22:31:07,309 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webflux:6.1.8
+2024-06-04 22:31:07,483 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.6.6/reactor-core-3.6.6-sources.jar
+2024-06-04 22:31:07,898 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.6.6/reactor-core-3.6.6-sources.jar
+2024-06-04 22:31:07,907 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-core:3.6.6
+2024-06-04 22:31:08,084 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4-sources.jar
+2024-06-04 22:31:08,089 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4-sources.jar
+2024-06-04 22:31:08,098 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.reactivestreams:reactive-streams:1.0.4
+2024-06-04 22:31:56,456 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:31:56,485 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:31:56,493 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:31:59,245 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:31:59,261 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:31:59,264 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:32:10,763 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:32:10,782 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:32:10,788 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:32:45,589 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:32:45,598 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:32:45,606 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:32:49,775 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:32:49,785 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:32:49,792 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:32:57,100 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:32:57,108 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:32:57,115 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:33:21,117 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:33:21,126 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:33:21,132 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:33:30,926 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:33:30,936 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:33:30,943 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:33:59,046 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:33:59,055 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:33:59,060 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:34:04,156 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:34:04,168 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:34:04,173 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:34:14,414 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:34:14,426 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:34:14,432 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:34:24,623 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:34:24,634 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:34:24,640 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:34:32,795 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:34:32,807 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:34:32,813 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:34:45,950 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:34:45,958 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:34:45,964 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:35:26,914 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:35:26,923 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:35:26,929 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:37:04,117 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:37:04,127 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:37:04,132 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:37:20,237 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:37:20,249 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:37:20,255 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:37:39,429 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:37:39,441 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:37:39,447 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:38:00,057 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:38:00,069 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:38:00,073 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:38:19,172 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:38:19,179 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:38:19,187 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:38:27,532 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:38:27,539 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:38:27,545 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:38:40,133 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:38:40,146 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:38:40,153 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:39:57,162 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:39:57,172 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:39:57,177 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:40:21,163 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:40:21,172 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:40:21,180 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:40:22,430 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:40:22,439 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:40:22,446 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:40:23,567 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:40:23,579 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:40:23,583 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources
+2024-06-04 22:40:36,723 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-04 22:40:36,730 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-04 22:40:36,734 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gusta\Documents\EclipseProjects\05_microservicio_cliente_contactos_webClient\src\test\resources

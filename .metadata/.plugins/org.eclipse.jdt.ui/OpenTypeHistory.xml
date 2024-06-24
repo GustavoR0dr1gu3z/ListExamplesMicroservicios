@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
     <typeInfo handle="=04_microservicio_contactos-1/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;repository{CustomerRepository.java[CustomerRepository" modifiers="513" timestamp="1718821228969"/>
-    <typeInfo handle="=08_micro_customer/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;repository{CustomerInterface.java[CustomerInterface" modifiers="513" timestamp="1718816749888"/>
+    <typeInfo handle="=crud/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;repository{UsuarioRepository.java[UsuarioRepository" modifiers="513" timestamp="1718856818418"/>
 </typeInfoHistroy>

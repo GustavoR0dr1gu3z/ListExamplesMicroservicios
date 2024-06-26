@@ -1,0 +1,57 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>dev.orne</groupId>
+    <artifactId>root-pom</artifactId>
+    <version>0.7.0</version>
+    <relativePath />
+  </parent>
+
+  <groupId>com.paymentchain</groupId>
+  <artifactId>paymentchainparent</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <name>paymentchainparent</name>
+  <description>paymentchainparent</description>
+  <inceptionYear>2021</inceptionYear>
+  <url>${github.page.url}</url>
+
+  <licenses>
+    <license>
+      <name>GNU Lesser General Public License (LGPL) version 3.0</name>
+      <url>https://www.gnu.org/licenses/lgpl-3.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
+  <developers>
+  </developers>
+
+  <properties>
+    <license.licenseName>lgpl_v3</license.licenseName>
+
+    <github.project.id>paymentchainparent</github.project.id>
+    <sonar.projectKey>orne-dev_paymentchainparent</sonar.projectKey>
+
+    <install.skip>false</install.skip>
+    <deploy.skip>false</deploy.skip>
+  </properties>
+
+  <scm>
+    <connection>${github.scm.connection}</connection>
+    <developerConnection>${github.scm.connection.dev}</developerConnection>
+    <url>${github.scm.url}</url>
+  </scm>
+  <distributionManagement>
+    <site>
+      <id>github</id>
+      <name>Github Project Pages</name>
+      <url>${project.url}</url>
+    </site>
+  </distributionManagement>
+
+</project>
